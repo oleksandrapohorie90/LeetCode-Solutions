@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
