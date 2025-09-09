@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/oleksandrapohorie90/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
